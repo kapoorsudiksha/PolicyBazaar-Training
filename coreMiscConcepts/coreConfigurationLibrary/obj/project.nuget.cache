@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BloLjKqyRSQ2p4sYDCt/WJ0wq7+I1Mfw7pcyXMTyknPtREFN+wbRuERWZfIjFD6nxxWNB/HtYZQDCzBIUZWmxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bhawn\\source\\repos\\coreMiscConcepts\\coreConfigurationLibrary\\coreConfigurationLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhawn\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\bhawn\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\bhawn\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "beoI5TnZ7Xl01VLP6mzPV2L+BKCKlxbQUv1xN6Dvfu4=",
+  "Source": "coreWebEmptyMvcProject",
+  "BasePath": "_content/coreWebEmptyMvcProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "coreWebEmptyMvcProject\\wwwroot",
+      "Source": "coreWebEmptyMvcProject",
+      "ContentRoot": "D:\\PolicyBazaar-SpringPeople-Training\\DayOne_Projects\\coreWebEmptyMvcProject\\wwwroot\\",
+      "BasePath": "_content/coreWebEmptyMvcProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\",
+      "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
+      "RelativePath": "Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\QuickGrid.razor.js",
+      "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\",
+      "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
+      "RelativePath": "QuickGrid.razor.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\QuickGrid.razor.js"
+    },
+    {
+      "Identity": "D:\\PolicyBazaar-SpringPeople-Training\\DayOne_Projects\\coreWebEmptyMvcProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\coreWebEmptyMvcProject.styles.css",
+      "SourceId": "coreWebEmptyMvcProject",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\PolicyBazaar-SpringPeople-Training\\DayOne_Projects\\coreWebEmptyMvcProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/coreWebEmptyMvcProject",
+      "RelativePath": "coreWebEmptyMvcProject.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\PolicyBazaar-SpringPeople-Training\\DayOne_Projects\\coreWebEmptyMvcProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\coreWebEmptyMvcProject.styles.css"
+    }
+  ]
+}

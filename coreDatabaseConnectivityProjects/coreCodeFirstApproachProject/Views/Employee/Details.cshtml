@@ -1,0 +1,15 @@
+﻿@model coreCodeFirstApproachProject.Models.Employee;
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <div>Employee Id : @Model.Id</div>
+    <div>Employee Name : @Model.Name</div>
+    <div>Employee Salary : @Model.Salary</div>
+</div>
+
+<a asp-controller="Employee" asp-action="Index">Back to List</a>

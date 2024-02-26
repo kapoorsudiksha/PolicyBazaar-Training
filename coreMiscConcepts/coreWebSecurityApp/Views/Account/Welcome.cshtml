@@ -1,0 +1,23 @@
+﻿
+@using System.Security.Claims;
+
+@{
+    Layout = null;
+}
+
+@{
+    var userId = User.FindFirst(ClaimTypes.Name);
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Welcome</title>
+</head>
+<body>
+    <h2>Welcome @userId.Value</h2>
+    <a asp-controller="account" asp-action="SignOut">Logout</a>
+</body>
+</html>

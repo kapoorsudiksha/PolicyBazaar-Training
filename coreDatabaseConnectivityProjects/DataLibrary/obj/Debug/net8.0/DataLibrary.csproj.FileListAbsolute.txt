@@ -1,0 +1,11 @@
+C:\Users\bhawn\source\repos\coreDatabaseConnectivityProjects\DataLibrary\bin\Debug\net8.0\DataLibrary.deps.json
+C:\Users\bhawn\source\repos\coreDatabaseConnectivityProjects\DataLibrary\bin\Debug\net8.0\DataLibrary.dll
+C:\Users\bhawn\source\repos\coreDatabaseConnectivityProjects\DataLibrary\bin\Debug\net8.0\DataLibrary.pdb
+C:\Users\bhawn\source\repos\coreDatabaseConnectivityProjects\DataLibrary\obj\Debug\net8.0\DataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhawn\source\repos\coreDatabaseConnectivityProjects\DataLibrary\obj\Debug\net8.0\DataLibrary.AssemblyInfoInputs.cache
+C:\Users\bhawn\source\repos\coreDatabaseConnectivityProjects\DataLibrary\obj\Debug\net8.0\DataLibrary.AssemblyInfo.cs
+C:\Users\bhawn\source\repos\coreDatabaseConnectivityProjects\DataLibrary\obj\Debug\net8.0\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bhawn\source\repos\coreDatabaseConnectivityProjects\DataLibrary\obj\Debug\net8.0\DataLibrary.dll
+C:\Users\bhawn\source\repos\coreDatabaseConnectivityProjects\DataLibrary\obj\Debug\net8.0\refint\DataLibrary.dll
+C:\Users\bhawn\source\repos\coreDatabaseConnectivityProjects\DataLibrary\obj\Debug\net8.0\DataLibrary.pdb
+C:\Users\bhawn\source\repos\coreDatabaseConnectivityProjects\DataLibrary\obj\Debug\net8.0\ref\DataLibrary.dll

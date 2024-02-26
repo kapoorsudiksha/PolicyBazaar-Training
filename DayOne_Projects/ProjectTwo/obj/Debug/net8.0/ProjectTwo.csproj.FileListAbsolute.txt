@@ -1,0 +1,14 @@
+D:\PolicyBazaar-SpringPeople-Training\DayOne_Projects\ProjectTwo\bin\Debug\net8.0\ProjectTwo.exe
+D:\PolicyBazaar-SpringPeople-Training\DayOne_Projects\ProjectTwo\bin\Debug\net8.0\ProjectTwo.deps.json
+D:\PolicyBazaar-SpringPeople-Training\DayOne_Projects\ProjectTwo\bin\Debug\net8.0\ProjectTwo.runtimeconfig.json
+D:\PolicyBazaar-SpringPeople-Training\DayOne_Projects\ProjectTwo\bin\Debug\net8.0\ProjectTwo.dll
+D:\PolicyBazaar-SpringPeople-Training\DayOne_Projects\ProjectTwo\bin\Debug\net8.0\ProjectTwo.pdb
+D:\PolicyBazaar-SpringPeople-Training\DayOne_Projects\ProjectTwo\obj\Debug\net8.0\ProjectTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\PolicyBazaar-SpringPeople-Training\DayOne_Projects\ProjectTwo\obj\Debug\net8.0\ProjectTwo.AssemblyInfoInputs.cache
+D:\PolicyBazaar-SpringPeople-Training\DayOne_Projects\ProjectTwo\obj\Debug\net8.0\ProjectTwo.AssemblyInfo.cs
+D:\PolicyBazaar-SpringPeople-Training\DayOne_Projects\ProjectTwo\obj\Debug\net8.0\ProjectTwo.csproj.CoreCompileInputs.cache
+D:\PolicyBazaar-SpringPeople-Training\DayOne_Projects\ProjectTwo\obj\Debug\net8.0\ProjectTwo.dll
+D:\PolicyBazaar-SpringPeople-Training\DayOne_Projects\ProjectTwo\obj\Debug\net8.0\refint\ProjectTwo.dll
+D:\PolicyBazaar-SpringPeople-Training\DayOne_Projects\ProjectTwo\obj\Debug\net8.0\ProjectTwo.pdb
+D:\PolicyBazaar-SpringPeople-Training\DayOne_Projects\ProjectTwo\obj\Debug\net8.0\ProjectTwo.genruntimeconfig.cache
+D:\PolicyBazaar-SpringPeople-Training\DayOne_Projects\ProjectTwo\obj\Debug\net8.0\ref\ProjectTwo.dll

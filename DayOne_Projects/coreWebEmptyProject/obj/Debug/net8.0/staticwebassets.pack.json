@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\PolicyBazaar-SpringPeople-Training\\DayOne_Projects\\coreWebEmptyProject\\wwwroot\\css\\myStyles.css",
+      "PackagePath": "staticwebassets\\css\\myStyles.css"
+    },
+    {
+      "Id": "D:\\PolicyBazaar-SpringPeople-Training\\DayOne_Projects\\coreWebEmptyProject\\wwwroot\\home.html",
+      "PackagePath": "staticwebassets\\home.html"
+    },
+    {
+      "Id": "D:\\PolicyBazaar-SpringPeople-Training\\DayOne_Projects\\coreWebEmptyProject\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "D:\\PolicyBazaar-SpringPeople-Training\\DayOne_Projects\\coreWebEmptyProject\\wwwroot\\js\\myScripts.js",
+      "PackagePath": "staticwebassets\\js\\myScripts.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.coreWebEmptyProject.props",
+      "PackagePath": "build\\coreWebEmptyProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.coreWebEmptyProject.props",
+      "PackagePath": "buildMultiTargeting\\coreWebEmptyProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.coreWebEmptyProject.props",
+      "PackagePath": "buildTransitive\\coreWebEmptyProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.coreWebEmptyProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

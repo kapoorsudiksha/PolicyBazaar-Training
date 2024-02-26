@@ -1,0 +1,12 @@
+C:\Users\bhawn\source\repos\coreMiscConcepts\coreConfigurationLibrary\bin\Debug\net8.0\coreConfigurationLibrary.deps.json
+C:\Users\bhawn\source\repos\coreMiscConcepts\coreConfigurationLibrary\bin\Debug\net8.0\coreConfigurationLibrary.dll
+C:\Users\bhawn\source\repos\coreMiscConcepts\coreConfigurationLibrary\bin\Debug\net8.0\coreConfigurationLibrary.pdb
+C:\Users\bhawn\source\repos\coreMiscConcepts\coreConfigurationLibrary\obj\Debug\net8.0\coreConfigurationLibrary.csproj.AssemblyReference.cache
+C:\Users\bhawn\source\repos\coreMiscConcepts\coreConfigurationLibrary\obj\Debug\net8.0\coreConfigurationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhawn\source\repos\coreMiscConcepts\coreConfigurationLibrary\obj\Debug\net8.0\coreConfigurationLibrary.AssemblyInfoInputs.cache
+C:\Users\bhawn\source\repos\coreMiscConcepts\coreConfigurationLibrary\obj\Debug\net8.0\coreConfigurationLibrary.AssemblyInfo.cs
+C:\Users\bhawn\source\repos\coreMiscConcepts\coreConfigurationLibrary\obj\Debug\net8.0\coreConfigurationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bhawn\source\repos\coreMiscConcepts\coreConfigurationLibrary\obj\Debug\net8.0\coreConfigurationLibrary.dll
+C:\Users\bhawn\source\repos\coreMiscConcepts\coreConfigurationLibrary\obj\Debug\net8.0\refint\coreConfigurationLibrary.dll
+C:\Users\bhawn\source\repos\coreMiscConcepts\coreConfigurationLibrary\obj\Debug\net8.0\coreConfigurationLibrary.pdb
+C:\Users\bhawn\source\repos\coreMiscConcepts\coreConfigurationLibrary\obj\Debug\net8.0\ref\coreConfigurationLibrary.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cB3DknuXCbLQlecfOTT24J1GJIlkaX76jU0grqtBApI=",
+  "Source": "coreEmptyApp",
+  "BasePath": "_content/coreEmptyApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

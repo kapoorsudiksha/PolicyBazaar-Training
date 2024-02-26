@@ -1,0 +1,21 @@
+﻿@model coreCodeFirstApproachProject.Models.Employee;
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<div>
+    <div>Employee Id : @Model.Id</div>
+    <div>Employee Name : @Model.Name</div>
+    <div>Employee Salary : @Model.Salary</div>
+</div>
+
+<form method="post" action="Delete">
+    <input type="hidden" asp-for="@Model.Id" />
+    <input type="submit" value="Delete" />
+        <a asp-controller="Employee" asp-action="Index">Back to List</a>
+</form>
+
+
